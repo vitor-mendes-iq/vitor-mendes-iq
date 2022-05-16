@@ -25,14 +25,13 @@ Here are some ideas to get you started:
 
 **Programming**
 <div style="display: inline_block">
-  <img align="center" alt="Jeff-py" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg">
-  <img align="center" alt="Jeff-R" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg">
-  <img align="center" alt="Jeff-ShellScript" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg">
+  <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg">
+  <img align="center" alt="ShellScript" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg">
   <img align="center" alt="Jeff-Linux" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linux-tux.svg">
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg">
-  <img align="center" alt="Jeff-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg">
-  <img align="center" alt="Jeff-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg">
 </div><br>
 
 **Main Packages**
