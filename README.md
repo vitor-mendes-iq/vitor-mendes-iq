@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 [![Linkedin: Vitor](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vitor-mendes-de-oliveira-50a100143/)
 [![Gmail Badge](https://img.shields.io/badge/-vitor.mendes.ag@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vitor.mendes.ag@gmail.com)
-<div>
-  ![Snake animation](https://github.com/vitor-mendes-iq/vitor-mendes-iq/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/vitor-mendes-iq/vitor-mendes-iq/blob/output/github-contribution-grid-snake.svg)
+
 
