@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/vitor-mendes-iq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-mendes-iq&theme=dracula&show_icons=true" />
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-mendes-iq&layout=compact&langs_count=7&theme=dracula" />
 </a>
 
@@ -71,6 +71,5 @@ Here are some ideas to get you started:
 [![Linkedin: Vitor](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vitor-mendes-de-oliveira-50a100143/)
 [![Gmail Badge](https://img.shields.io/badge/-vitor.mendes.ag@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vitor.mendes.ag@gmail.com)
 
-![Snake animation](https://github.com/vitor-mendes-iq/vitor-mendes-iq/blob/output/github-contribution-grid-snake.svg)
 
 
