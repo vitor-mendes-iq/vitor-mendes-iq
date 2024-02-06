@@ -34,15 +34,6 @@ Here are some ideas to get you started:
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg">
 </div><br>
 
-**Main Packages**
-  
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor)
-  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy&logoColor=yellow)
-  ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow&logoColor=orange)
-  ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikitlearn&logoColor=orange)  
-  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly&logoColor=orange)
-  ![Caret](https://img.shields.io/badge/-Caret-333333?style=flat&logo=pycaret&logoColor=orange)
-  ![SHAP](https://img.shields.io/badge/-SHAP-333333?style=flat&logo=shap&logoColor=orange)
   
 **DevOps**
 
